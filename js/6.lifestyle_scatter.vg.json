@@ -21,7 +21,7 @@
   "height": 420,
 
   "data": {
-    "url": "../data/6.lifestyle_scatter.csv"
+    "url": "data/6.lifestyle_scatter.csv"
   },
 
   "layer": [

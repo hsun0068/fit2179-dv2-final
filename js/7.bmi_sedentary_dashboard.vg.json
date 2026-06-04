@@ -18,7 +18,7 @@
   },
 
   "data": {
-    "url": "../data/7.bmi_sedentary_bins.csv"
+    "url": "data/7.bmi_sedentary_bins.csv"
   },
 
   "transform": [

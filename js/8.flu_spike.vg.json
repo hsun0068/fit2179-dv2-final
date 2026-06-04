@@ -27,7 +27,7 @@
   },
 
   "data": {
-    "url": "../data/8.flu_monthly.csv"
+    "url": "data/8.flu_monthly.csv"
   },
 
   "transform": [

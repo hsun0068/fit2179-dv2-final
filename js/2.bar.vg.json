@@ -44,7 +44,7 @@
   ],
 
   "data": {
-    "url": "../data/2.bmi_by_state_year.csv"
+    "url": "data/2.bmi_by_state_year.csv"
   },
 
   "transform": [

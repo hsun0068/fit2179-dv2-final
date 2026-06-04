@@ -21,7 +21,7 @@
   "height": 330,
 
   "data": {
-    "url": "../data/9.state_risk_parallel.csv"
+    "url": "data/9.state_risk_parallel.csv"
   },
 
   "transform": [

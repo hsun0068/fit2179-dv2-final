@@ -17,7 +17,7 @@
   },
 
   "data": {
-    "url": "../data/3.bmi_composition.csv"
+    "url": "data/3.bmi_composition.csv"
   },
 
   "vconcat": [

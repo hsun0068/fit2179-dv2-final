@@ -18,7 +18,7 @@
   },
 
   "data": {
-    "url": "../data/10.csv"
+    "url": "data/10.csv"
   },
 
   "transform": [

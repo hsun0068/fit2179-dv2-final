@@ -16,7 +16,7 @@
   "height": 260,
 
   "data": {
-    "url": "../data/4.age_gender_bmi.csv"
+    "url": "data/4.age_gender_bmi.csv"
   },
 
   "layer": [

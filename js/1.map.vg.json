@@ -44,7 +44,7 @@
   ],
 
   "data": {
-    "url": "../data/2.bmi_by_state_year.csv"
+    "url": "data/2.bmi_by_state_year.csv"
   },
 
   "transform": [
@@ -55,7 +55,7 @@
       "lookup": "state",
       "from": {
         "data": {
-          "url": "../data/1.australia_states.json",
+          "url": "data/1.australia_states.json",
           "format": {
             "type": "topojson",
             "feature": "STE_2021_AUST_GDA2020"
